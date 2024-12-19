@@ -24,6 +24,6 @@ Current solution is cheaper and involves less assembly.
 ![](Screenshot%202024-12-19%20132924.png)
 ![](Screenshot%202024-12-19%20135819.png)
 Exposed VGA and PMOD connectors:
-![](Screenshot 2024-12-19 140452.png)
+![](Screenshot%202024-12-19%20140452.png)
 PMOD: 
-![](Screenshot 2024-12-19 140547.png)
+![](Screenshot%202024-12-19%20140547.png)
