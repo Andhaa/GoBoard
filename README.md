@@ -2,13 +2,18 @@
 Case for GoBoard
 
 # Models
-See attached STL-files 
+See attached STL-file (contains multiple objects)
+.3mf file for  BambuLab X1 Carbon +AMS
 
 Printed with .2mm layer height. 
 2 Stl files, 1 with  5x 0.2mm light diffusors, and another without.
 
+
 ## Want to modify?
-Original design in this [Onshape-Project](https://cad.onshape.com/documents/b5e3aa80c0473fccdcfa36a3/w/416390dcb99cf1732b89929b/e/f7f63c7c95c05830403a44de?renderMode=0&uiState=67641a55a0fb78669a34887a)
+Please note: Measurements have an added offset of 0.3mm to account for inaccuracies when printing, such as growing or shrinking of internal and external features.
+
+Original design on public [Onshape](https://cad.onshape.com/documents/b5e3aa80c0473fccdcfa36a3/w/416390dcb99cf1732b89929b/e/f7f63c7c95c05830403a44de?renderMode=0&uiState=67641a55a0fb78669a34887a)
+
 ## Known issues
 The LED's are a little dimmer than without the case. A better choice would be using light pipes. 
 Current solution is cheaper and involves less assembly.
