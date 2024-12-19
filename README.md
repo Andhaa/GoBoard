@@ -2,12 +2,11 @@
 Case for GoBoard
 
 # Models
-See attached STL-file (contains multiple objects)
-.3mf file for  BambuLab X1 Carbon +AMS
+See attached STL-file (contains multiple objects).
 
-Printed with .2mm layer height. 
-2 Stl files, 1 with  5x 0.2mm light diffusors, and another without.
+.3MF file for  BambuLab X1 Carbon +AMS
 
+Printed with 0.2mm layer height using 0.4mm nozzle.  
 
 ## Want to modify?
 Please note: Measurements have an added offset of 0.3mm to account for inaccuracies when printing, such as growing or shrinking of internal and external features.
