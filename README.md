@@ -1,5 +1,5 @@
 # GoBoard
-Case for GoBoard
+Case for GoBoard from nandland.com
 
 # Models
 See attached STL-file (contains multiple objects).
