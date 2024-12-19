@@ -28,6 +28,7 @@ The LED's are a little dimmer than without the case, especially in bright rooms.
 ![](Screenshot%202024-12-19%20132733.png)
 ![](Screenshot%202024-12-19%20132924.png)
 ![](Screenshot%202024-12-19%20135819.png)
+
 Exposed VGA and PMOD connectors:
 
 ![](Screenshot%202024-12-19%20140452.png)
