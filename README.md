@@ -24,9 +24,9 @@ This offset is applied to features I suspect would creep or change. Not strictly
 
 # Screenshots / pictures:
 ![](Screenshot%202024-12-19%20132733.png)
-![](Screenshot%202024-12-19%20132924.png)
-![](Screenshot%202024-12-19%20135819.png)
 ![](Screenshot%202024-12-20%20105255.png)
+
+![](Screenshot%202024-12-19%20135819.png)
 
 Exposed VGA and PMOD connectors:
 
